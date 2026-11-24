@@ -1,0 +1,7 @@
+ffmpy
+librespot==0.0.9
+music_tag
+Pillow
+protobuf
+tabulate
+tqdm
